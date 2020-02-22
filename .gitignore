@@ -1,0 +1,4 @@
+# Project exclude paths
+/kxg-consumer/target/
+/kxg-interface/target/
+/kxg-provider/target/
