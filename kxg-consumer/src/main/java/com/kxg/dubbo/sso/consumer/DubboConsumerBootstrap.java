@@ -16,7 +16,7 @@ public class DubboConsumerBootstrap {
 
     private final Logger logger = LoggerFactory.getLogger(getClass());
 
-
+    //
     @Reference(version = "1.0.0")
 
     private DemoService demoService;
