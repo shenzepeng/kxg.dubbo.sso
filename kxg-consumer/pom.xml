@@ -18,6 +18,13 @@
         <dubbo.version>2.7.3</dubbo.version>
     </properties>
     <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+            <version>2.0.5.RELEASE</version>
+        </dependency>
+
         <dependency>
             <groupId>com</groupId>
             <artifactId>kxg-interface</artifactId>

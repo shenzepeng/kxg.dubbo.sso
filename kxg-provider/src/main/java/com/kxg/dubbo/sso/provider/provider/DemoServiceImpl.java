@@ -1,4 +1,4 @@
-package com.kxg.dubbo.sso.provider;
+package com.kxg.dubbo.sso.provider.provider;
 
 import org.apache.dubbo.config.annotation.Service;
 import com.kxg.dubbo.sso.DemoService;
